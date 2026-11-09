@@ -1,35 +1,3 @@
-<div align="center"><img src="https://raw.githubusercontent.com/st-tech/zr-obp/master/images/logo.png" width="60%"/></div>
-
-
-
-[[arXiv]](https://arxiv.org/abs/2008.07146)
-[[NeurIPS2021 Proceedings]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/33e75ff09dd601bbe69f351039152189-Abstract-round2.html)
-# Open Bandit Pipeline: a research framework for off-policy evaluation and learning
-
-**[Docs](https://zr-obp.readthedocs.io/en/latest/)** | **[Google Group](https://groups.google.com/g/open-bandit-project)** | **[Tutorial](https://sites.google.com/cornell.edu/recsys2021tutorial)** | **[Installation](#installation)** | **[Usage](#usage)** | **[Slides](./slides/slides_EN.pdf)** | **[Quickstart](./examples/quickstart)** | **[Open Bandit Dataset](./obd)** | **[日本語](./README_JN.md)**
-
-<details>
-<summary><strong>Table of Contents</strong></summary>
-
-- [Open Bandit Pipeline: a research framework for off-policy evaluation and learning](#open-bandit-pipeline-a-research-framework-for-bandit-algorithms-and-off-policy-evaluation)
-- [Overview](#overview)
-  - [Open Bandit Dataset (OBD)](#open-bandit-dataset-obd)
-  - [Open Bandit Pipeline (OBP)](#open-bandit-pipeline-obp)
-    - [Algorithms and OPE Estimators Supported](#algorithms-and-ope-estimators-supported)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [(1) Data loading and preprocessing](#1-data-loading-and-preprocessing)
-  - [(2) Off-Policy Learning](#2-off-policy-learning)
-  - [(3) Off-Policy Evaluation](#3-off-policy-evaluation)
-- [Citation](#citation)
-- [Google Group](#google-group)
-- [Contribution](#contribution)
-- [License](#license)
-- [Project Team](#project-team)
-- [Contact](#contact)
-- [References](#references)
-
-</details>
 
 # Overview
 
